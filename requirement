@@ -1,0 +1,30 @@
+
+# ==========================================
+# Bank GoodCredit - Credit Risk Prediction
+# Project Dependencies
+# ==========================================
+
+# Data Manipulation and Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning and Model Evaluation
+scikit-learn
+scipy
+
+# Model Serialization
+joblib
+
+# MySQL Database Connectivity
+mysql-connector-python
+
+# Jupyter Notebook Environment
+jupyter
+ipykernel
+
+# Environment and Configuration Management
+python-dotenv
